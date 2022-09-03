@@ -1,17 +1,10 @@
-# Project12-Business-page
-# Hi Buddy!! Welcome 👋
-
-
-## 🔗Live Link -: [Business-page](https://project12-business-page.netlify.app/)
----
-
 ## ⭐ Project Name: Business Design Landing Page ⭐
 
 This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://developer-landing-page-009.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://project12-business-page.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -39,7 +32,7 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Rohit Parihar](https://www.linkedin.com/in/prakash-naikwadi/)
+- **LinkedIn** - [Rohit Parihar](https://www.linkedin.com/in/rohit-parihar-3a4b1b1aa/)
 
 
 ## 📌 Acknowledgments
